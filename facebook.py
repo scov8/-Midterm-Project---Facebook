@@ -1,6 +1,3 @@
-""" 
-Luigi Scovotto 0622701702
-"""
 from graph.graph import Graph
 
 def gain(K, Z, vModify, g, list):
